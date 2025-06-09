@@ -6,3 +6,8 @@ conda create -p venv python == 3.10
 
 # To activate environment
 conda activate venv/
+
+# To install ipykernel
+pip install ipykernel
+
+pip install -U langchain-community
